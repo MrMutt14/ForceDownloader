@@ -8,8 +8,7 @@ If it cant download(no internet access for exmp):
 It will try to do it again every 30 secs.
 
 Donations:
-Paypal: muttpaypal@gmail.com
-
+Paypal: Fuck paypal
 Bitcoin:
 1FWCbYvw2hBx5VJEmrCfQnRzD2CSyEh3aK
 
