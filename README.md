@@ -1,5 +1,4 @@
 # ForceDownloader
-Made by FORC3FI3LD, 5kb stub.
 A downloader.
 5KB Stub!
 Basiclly u give it a link and it downloads and executes the file.
